@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "Bookname": "The Adventures of Tom Sawyer",
+    "title": "A classic novel by Mark Twain",
+    "Price": 0,
+    "category": "Free",
+    "image": "https://example.com/book1.jpg",
+    "mini_description": "Join Tom Sawyer in his adventures along the Mississippi River."
+  },
+  {
+    "id": 2,
+    "Bookname": "Pride and Prejudice",
+    "title": "A romantic novel by Jane Austen",
+    "Price": 0,
+    "category": "Free",
+    "image": "https://example.com/book2.jpg",
+    "mini_description": "Experience the tale of Elizabeth Bennet and Mr. Darcy's unlikely romance."
+  },
+  {
+    "id": 3,
+    "Bookname": "Moby-Dick",
+    "title": "A classic novel by Herman Melville",
+    "Price": 0,
+    "category": "Free",
+    "image": "https://example.com/book3.jpg",
+    "mini_description": "Embark on Captain Ahab's relentless pursuit of the great white whale, Moby-Dick."
+  },
+  {
+    "id": 4,
+    "Bookname": "Dracula",
+    "title": "A gothic horror novel by Bram Stoker",
+    "Price": 0,
+    "category": "Free",
+    "image": "https://example.com/book4.jpg",
+    "mini_description": "Immerse yourself in the chilling world of Count Dracula and his victims."
+  },
+  {
+    "id": 5,
+    "Bookname": "Alice's Adventures in Wonderland",
+    "title": "A fantasy novel by Lewis Carroll",
+    "Price": 0,
+    "category": "Free",
+    "image": "https://example.com/book5.jpg",
+    "mini_description": "Follow Alice as she falls down the rabbit hole into a whimsical and nonsensical wonderland."
+  },
+  {
+    "id": 6,
+    "Bookname": "Frankenstein",
+    "title": "A science fiction novel by Mary Shelley",
+    "Price": 0,
+    "category": "Free",
+    "image": "https://example.com/book6.jpg",
+    "mini_description": "Explore the moral dilemmas of Dr. Frankenstein and his creation."
+  },
+  {
+    "id": 7,
+    "Bookname": "The Picture of Dorian Gray",
+    "title": "A philosophical novel by Oscar Wilde",
+    "Price": 0,
+    "category": "Free",
+    "image": "https://example.com/book7.jpg",
+    "mini_description": "Witness the consequences of vanity and hedonism through Dorian Gray's portrait."
+  },
+  {
+    "id": 8,
+    "Bookname": "Adventures of Huckleberry Finn",
+    "title": "A novel by Mark Twain",
+    "Price": 0,
+    "category": "Free",
+    "image": "https://example.com/book8.jpg",
+    "mini_description": "Join Huck Finn and Jim as they journey down the Mississippi River."
+  },
+  {
+    "id": 9,
+    "Bookname": "Food Book",
+    "title": "Gourmet Delights: Recipes and Culinary Tips",
+    "Price": 40,
+    "category": "Food",
+    "image": "https://example.com/book9.jpg",
+    "mini_description": "Discover delightful recipes and culinary tips in this mouthwatering food book."
+  },
+  {
+    "id": 10,
+    "Bookname": "Music Book",
+    "title": "Harmony and Rhythm: A Comprehensive Guide to Music",
+    "Price": 400,
+    "category": "Music",
+    "image": "https://example.com/book10.jpg",
+    "mini_description": "Learn about the history, theory, and appreciation of music in this comprehensive book."
+  },
+  {
+    "id": 11,
+    "Bookname": "Sport Book",
+    "title": "The Athlete's Handbook: Strategies and Techniques",
+    "Price": 50,
+    "category": "Sport",
+    "image": "https://example.com/book11.jpg",
+    "mini_description": "Explore various sports disciplines, strategies, and techniques in this informative book."
+  },
+  {
+    "id": 12,
+    "Bookname": "Comedy Book",
+    "title": "Laugh Lines: A Collection of Hilarious Anecdotes",
+    "Price": 20,
+    "category": "Comedy",
+    "image": "https://example.com/book12.jpg",
+    "mini_description": "Laugh out loud with hilarious anecdotes and witty observations in this comedy book."
+  },
+  {
+    "id": 13,
+    "Bookname": "History Book",
+    "title": "Timeless Tales: Exploring Historical Events and Figures",
+    "Price": 30,
+    "category": "History",
+    "image": "https://example.com/book13.jpg",
+    "mini_description": "Delve into the past and uncover the events and figures that shaped our world."
+  },
+  {
+    "id": 14,
+    "Bookname": "Science Book",
+    "title": "Discoveries and Theories: A Journey Through Science",
+    "Price": 25,
+    "category": "Science",
+    "image": "https://example.com/book14.jpg",
+    "mini_description": "Explore scientific discoveries, theories, and breakthroughs across various disciplines."
+  },
+  {
+    "id": 15,
+    "Bookname": "Technology Book",
+    "title": "Innovations and Impact: The World of Technology",
+    "Price": 35,
+    "category": "Technology",
+    "image": "https://example.com/book15.jpg",
+    "mini_description": "Learn about the latest advancements and innovations in technology and its impact on society."
+  }
+]
